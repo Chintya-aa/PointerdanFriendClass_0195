@@ -20,3 +20,10 @@ class pelajar
 };
 
 void manusia::showNilaipelajar(pelajar &x)
+{
+    cout << x.nilai;
+}
+// void manusia::showNilaipelajarDua(pelajar &y)
+// {
+//
+}
